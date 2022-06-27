@@ -1,0 +1,10 @@
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\bin\Debug\netcoreapp3.1\LauraJaChristianHarkka.deps.json
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\bin\Debug\netcoreapp3.1\LauraJaChristianHarkka.dll
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\bin\Debug\netcoreapp3.1\LauraJaChristianHarkka.pdb
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\obj\Debug\netcoreapp3.1\LauraJaChristianHarkka.csproj.AssemblyReference.cache
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\obj\Debug\netcoreapp3.1\LauraJaChristianHarkka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\obj\Debug\netcoreapp3.1\LauraJaChristianHarkka.AssemblyInfoInputs.cache
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\obj\Debug\netcoreapp3.1\LauraJaChristianHarkka.AssemblyInfo.cs
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\obj\Debug\netcoreapp3.1\LauraJaChristianHarkka.csproj.CoreCompileInputs.cache
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\obj\Debug\netcoreapp3.1\LauraJaChristianHarkka.dll
+C:\Users\ChristianKeihäs\source\repos\LauraJaChristianHarkka\obj\Debug\netcoreapp3.1\LauraJaChristianHarkka.pdb
