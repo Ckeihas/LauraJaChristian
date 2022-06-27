@@ -4,22 +4,14 @@ namespace LauraJaChristianHarkka
 {
     public class Class1
     {
-        public static void Paivamaara()
+
+        public bool IsFuture(DateTime userInput)
         {
-            bool tulevaisuudessa = true;
-
-            Console.WriteLine("Kirjoita pvm: ");
-            DateTime vastaus = Convert.ToDateTime(Console.ReadLine());
-
-            if (vastaus > DateTime.Now)
-            {
-                tulevaisuudessa = true;
-            }
+            int result = DateTime.Compare(DateTime.Now, userInput);
+            if (result < 0)
+                return false;
             else
-            {
-                tulevaisuudessa = false;
-            }
-
+                return true;
         }
     }
 }
