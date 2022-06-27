@@ -9,9 +9,9 @@ namespace LauraJaChristianHarkka
         {
             int result = DateTime.Compare(DateTime.Now, userInput);
             if (result < 0)
-                return false;
-            else
                 return true;
+            else
+                return false;
         }
     }
 }
