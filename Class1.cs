@@ -13,5 +13,22 @@ namespace LauraJaChristianHarkka
             else
                 return false;
         }
+
+        public void Start(DateTime startDate, double arvio)
+        {
+            var vertaus = startDate.AddHours(arvio);
+
+            if (vertaus > DateTime.Now)
+            {              
+                
+                Console.WriteLine("Opiskelusi on myöhässä");
+            }
+
+            else
+            {
+                Console.WriteLine("Opiskelusi on aikataulussa");
+            }
+ 
+        }
     }
 }
