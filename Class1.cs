@@ -30,5 +30,18 @@ namespace LauraJaChristianHarkka
             }
  
         }
+
+        public void IsLate(DateTime startD, DateTime endD, TimeSpan arvio)
+        {
+            TimeSpan usedTime = endD - startD;
+            Console.WriteLine(usedTime);
+            TimeSpan.Compare(usedTime, arvio);
+
+            if (usedTime > arvio)
+            {
+                Console.WriteLine("Olet aikataulussa");
+            }
+            
+        }
     }
 }
